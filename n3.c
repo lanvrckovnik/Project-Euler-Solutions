@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(int argc, char const *argv[])
 {
     long long goal = 600851475143;
     int b = 2;

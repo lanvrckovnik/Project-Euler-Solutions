@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(int argc, char const *argv[])
 {
     int fst = 1;
     int sec = 2;
